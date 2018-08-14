@@ -2,11 +2,11 @@
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
 	else if(typeof define === 'function' && define.amd)
-		define("dyna-client-download", [], factory);
+		define("dyna-client-down-load", [], factory);
 	else if(typeof exports === 'object')
-		exports["dyna-client-download"] = factory();
+		exports["dyna-client-down-load"] = factory();
 	else
-		root["dyna-client-download"] = factory();
+		root["dyna-client-down-load"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
