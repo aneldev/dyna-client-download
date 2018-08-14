@@ -6,6 +6,12 @@ Download files from the browser.
 
 Written in Typescript, runs everywhere.
 
+# Import
+
+`npm install dyna-client-down-load`
+
+**Note:** The npm package name is `dyna-client-down-load` and *not* `dyna-client-download` due to an npm restriction.
+
 # Use cases
 
 - Build some data on browser (csv, etc..) and download them without need of server.
