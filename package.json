@@ -4,7 +4,7 @@
   "description": "Download files from client",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aneldev/dyna-client-down-load"
+    "url": "http://github.com/aneldev/dyna-client-download"
   },
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
